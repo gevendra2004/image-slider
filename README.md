@@ -1,6 +1,10 @@
 # Auto-Running Image Slider
 
-![Alt text](./assets)
+![Alt text](./assets/IMAGE SLIDER (1).png)
+
+## YouTube Tutorial
+
+For a detailed step-by-step guide, check out the [YouTube Tutorial Watch Now](https://youtu.be/CBP3bBLvmCc).
 
 Welcome back to **Gevstack**, folks! In this project, we'll be creating an auto-running image slider using **HTML**, **CSS**, and **JavaScript**.
 
@@ -11,18 +15,8 @@ This slider:
 - Has clickable **thumbnails** that allow you to jump directly to any slide.
 - Is **fully responsive**, providing a smooth experience across different screen sizes.
 
----
-
 ## Project Demo
-
-
----
-
-## YouTube Tutorial
-
-For a detailed step-by-step guide, check out the [YouTube tutorial](https://youtu.be/CBP3bBLvmCc).
-
----
+[For demo click here](https://gevendra2004.github.io/image-slider/)
 
 ## Contact
 
