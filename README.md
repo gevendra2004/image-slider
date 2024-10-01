@@ -1,6 +1,6 @@
 # Auto-Running Image Slider
 
-![Image](./assets/IMAGE SLIDER.png)
+![Image Slider Preview](./assets/IMAGE%20SLIDER.png)
 
 ## YouTube Tutorial
 
